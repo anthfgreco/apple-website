@@ -1,0 +1,171 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: rgba(0,0,0,0.9)!important;
+  opacity: 1;
+}
+
+.fa.fa-apple {
+  font-size: 23px;
+}
+
+body {
+  padding-top: 60px;
+}
+
+.product {
+  padding-top: 50px;
+  text-align: center;
+  margin-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  .product {
+    padding-top: 100px;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+}
+
+.product h1 {
+  font-size: 32px;
+  font-weight: 650;
+}
+
+@media (min-width: 576px) {
+  .product h1 {
+    font-size: 60px;
+    font-weight: 650;
+  }
+}
+
+.product h2 {
+  font-size: 21px;
+  font-weight: 400;
+}
+
+@media (min-width: 576px) {
+  .product h2 {
+    font-size: 26px;
+    font-weight: 400;
+  }
+}
+
+.product .links {
+  font-size: 18px;
+}
+
+.product-small .links {
+  font-size: 17px;
+}
+
+.product-small.dark {
+  color: white;
+}
+
+.product-small.dark a {
+  color: white;
+}
+
+.product .learn-more {
+  margin-right: 20px;
+}
+
+.product-small .learn-more {
+  margin-right: 20px;
+}
+
+.product.iphone-x {
+  background-color: #f9f9f9;
+}
+
+.iphone-x-img {
+  margin-top: 60px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.product.ipad {
+  background-color: #f5f5f5;
+}
+
+.product.macbookpro {
+  background-color: #131218;
+}
+
+.product.dark {
+  color: white;
+}
+
+.product.dark a {
+  color: white;
+}
+
+.product-small {
+  height: 550px;
+  padding-top: 40px;
+  margin: 0 0 10px 0px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 567px) {
+  .product-small {
+    margin: 0 0 10px 10px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.product-small h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.product-small h4 {
+  font-size: 19px;
+  font-weight: 500;
+}
+
+.products-grid {
+  padding-right: 10px;
+}
+
+.product-small.airpods {
+  background-color: #fafafa;
+}
+
+.links.airpods {
+  margin-bottom: 30px;
+}
+
+.fa.fa-apple.apple-watch-logo {
+  font-size: 35px;
+}
+
+.h5, h5 {
+  color: #aa1313;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.product-small.apple-watch {
+  background-color: #eeeeee;
+}
+
+.iphone-12-img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.product-small.iphone-12-pro.dark {
+  background-color: black;
+}
+
+.footer-legal a {
+  color: grey;
+  font-size: 12px;
+}
+
